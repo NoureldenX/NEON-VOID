@@ -7,8 +7,7 @@ The project focuses on responsive design, glowing UI elements, and clean, semant
 
 ## 🚀 Live Demo & Code
 
-🔗 **Live Demo (HTML):** _add link here_  
-🔗 **Source Code (CSS):** _add link here_  
+🔗 **Live Demo (HTML):**  https://noureldenx.github.io/NEON-VOID/
 
 ---
 
